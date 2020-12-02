@@ -1,6 +1,8 @@
 # StickyNotes
-![alt text](https://github.com/AryaTheAbhishek/StickyNotes/blob/master/Sticky-Notes.png)
-This application you can use to create sticky notes. The sticky notes are persistent in nature meaning your created sticky notes will be there the next time you open up the app. The app uses localStorage feature in order to store the notes. It is sticky notes for web and mobile also avilable as Progressive web application !
+![alt text](https://github.com/AryaTheAbhishek/StickyNotes/blob/master/Sticky-Notes.png)<br/>
+This application you can use to create sticky notes. The sticky notes are persistent in nature meaning your created sticky notes will be there the next time you open up the app. The app uses localStorage feature in order to store the notes. It is sticky notes for web and mobile also avilable as Progressive web application.
+<br/>
+Link :- https://stickynotes-91e39.web.app/
 <br/>
 # FEATURES
 Progressive web application (PWA) <br/>
